@@ -5,10 +5,7 @@ import com.sedmelluq.discord.lavaplayer.track.playback.AudioFrame;
 import net.dv8tion.jda.core.audio.AudioSendHandler;
 
 /**
- * Created by zekro on 18.06.2017 / 11:45
- * supremeBot.audioCore
- * dev.zekro.de - github.zekro.de
- * © zekro 2017
+ * Created by Danjeyy
  */
 
 public class PlayerSendHandler implements AudioSendHandler {
