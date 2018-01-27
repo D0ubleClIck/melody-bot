@@ -32,11 +32,6 @@ public class cmd_help implements command {
                 ":wastebasket: Use **!del <value>** to delete the message History!\n" +
                 ":bar_chart: Use **!poll create `your question`|answer1|answer2|...** to create a poll!\n" +
                 ":point_right: Use **!nudge <message> @UserYouWantToNudge** to nudge a friend!").build()).queue();
-/*
-        Message message = event.getMessage().delete();
-        message.addReaction("✅").queue();
-        event.getTextChannel().sendMessage(message).queue();
-        */
 
 
 
