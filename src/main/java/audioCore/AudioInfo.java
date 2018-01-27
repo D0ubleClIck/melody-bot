@@ -3,14 +3,9 @@ package audioCore;
 
 import com.sedmelluq.discord.lavaplayer.track.AudioTrack;
 import net.dv8tion.jda.core.entities.Member;
-
-/**
- * Created by zekro on 18.06.2017 / 11:26
- * supremeBot.audioCore
- * dev.zekro.de - github.zekro.de
- * © zekro 2017
- */
-
+/*
+Created by Danjeyy
+*/
 public class AudioInfo {
 
     private final AudioTrack TRACK;
