@@ -1,0 +1,35 @@
+
+Basic commands:
+	!help
+	!info
+
+
+
+Music commands :
+------------------------------------------------
+
+!music play <playlist>
+!music pause/resume
+!music shuffle
+!music skip
+!music stop
+!music queue
+!music now/info
+______________________________
+
+Advanced commands :
+------------------------------------------------
+
+Poll -->
+!poll create <your poll>|question1|question2|... 
+!poll stats
+!poll for <number>
+!poll close
+
+Delete Messages -->
+!del <value>
+
+Nudge -->
+!nudge <YourMessage> @User
+_______________________________
+
