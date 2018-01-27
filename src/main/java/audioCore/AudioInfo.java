@@ -12,9 +12,8 @@ public class AudioInfo {
     private final Member AUTHOR;
 
     /**
-     * Erstellt eine Instanz der Klasse AudioInfo.
      * @param track AudioTrack
-     * @param author Member, der den Track eingereiht hat
+     * @param author
      */
     public AudioInfo(AudioTrack track, Member author) {
         this.TRACK = track;
